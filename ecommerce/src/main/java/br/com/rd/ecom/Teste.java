@@ -1,6 +1,6 @@
 package br.com.rd.ecom;
 
-import br.com.rd.ecom.user.model.Clients;
+import br.com.rd.ecom.model.Clients;
 
 public class Teste {
 
